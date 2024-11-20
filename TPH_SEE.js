@@ -1,0 +1,1 @@
+If(typeof(EventSource) !=="undefined") {
